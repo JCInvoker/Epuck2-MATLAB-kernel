@@ -3,6 +3,8 @@ The original and official code please refer to https://github.com/gctronic/e-puc
 This kernel is updated by Jiacheng Chen, Sheffield Hallam University, UK.
 Thanks to Stefano Morgani for his help.
 
+Also available in MATLAB Add-ons
+[![View Epuck2-MATLAB-kernel on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/129024-epuck2-matlab-kernel)
 
 Update:
 1. Use 'serialport' instead 'serial', previously close MATLAB by mistake or detele kernel by mistake will
