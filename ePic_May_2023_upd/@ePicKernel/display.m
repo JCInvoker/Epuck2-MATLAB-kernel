@@ -10,6 +10,7 @@ function display(ePic)
 %   ePic            :   ePicKernel object
 
 disp '------------- ePic Kernel v4.0 -------------';
+disp 'updated by Jiacheng Chen, Sheffield Hallam University, UK ';
 disp ' ';
 disp '-----> sensors informations :'
 disp 'Accelerometers : '
